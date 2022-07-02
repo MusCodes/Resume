@@ -1,0 +1,14 @@
+body {background-color: #ADD8E6}
+
+h1 { Color: black
+}
+h1{font-size: 40px}
+h1{font-family: Cursive, Arial, Helvetica,fantasy, sans-serif;}
+
+.Header {background-color:yellow;
+  padding-left: 50px;
+  padding-right: 20px;
+  margin-right: 150px;
+  border: 1px solid black;
+margin-left: 200px}
+p,li {font-size: 25px}
